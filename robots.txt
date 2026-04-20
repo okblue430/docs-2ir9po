@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-9bbqhd.evergrowadvisors.com/sitemap.xml
